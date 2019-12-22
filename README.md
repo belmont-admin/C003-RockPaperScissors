@@ -175,4 +175,4 @@ onto your @boardname@. Your game is ready! Gather your friends and play Rock Pap
 You might like to think about how you could improve your game:
 
 1. By displaying something when you shake and before you display the rock, paper of scissors. This is so you can be sure you have triggered the shake.
-2. By using the a button to keep track of the number of times you win and display W when you get to 10 wins.
+2. By using the 'A' button to keep track of the number of times you win and display W when you get to 10 wins.
