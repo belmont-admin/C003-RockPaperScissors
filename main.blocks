@@ -1,10 +1,10 @@
-<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="}v*#H?^FqEY9cZ*naLC1">hand</variable></variables><block type="pxt-on-start" id="X]qu[B%aD,Hxd7iT_]j#" x="20" y="20"><statement name="HANDLER"><block type="device_show_leds" id="Gu{B}|/X%@e:J^]H@wlp"><field name="LEDS">`
+<xml xmlns="https://developers.google.com/blockly/xml"><variables><variable id="}v*#H?^FqEY9cZ*naLC1">hand</variable></variables><block type="pxt-on-start" id="X]qu[B%aD,Hxd7iT_]j#" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="Gu{B}|/X%@e:J^]H@wlp"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . # . . 
         . . . . . 
         . . . . .
-        `</field></block></statement></block><block type="device_gesture_event" id="4*F5H+T)Q%-h[T,%*_]v" x="257" y="20"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="?,Nt}q;+]$)QBPRuWse8"><field name="LEDS">`
+        `</field></block></statement></block><block type="device_gesture_event" id="4*F5H+T)Q%-h[T,%*_]v" x="237" y="0"><field name="NAME">Gesture.Shake</field><statement name="HANDLER"><block type="device_show_leds" id="?,Nt}q;+]$)QBPRuWse8"><field name="LEDS">`
         . . . . . 
         . . . . . 
         . . # . . 
